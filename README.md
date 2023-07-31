@@ -7,8 +7,8 @@
 - 😄 Pronouns: he/him
 
 ### Working experience: 
-- Quiz app built in mern stack
-- Cybersecurity app for scanning websites built in mern stack
+- Quiz App built
+- Cyber Security App 
 
 ### Technologies:
 - HTML
