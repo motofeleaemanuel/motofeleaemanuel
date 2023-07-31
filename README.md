@@ -6,11 +6,11 @@
 - 📫 How to reach me: motofeleaemanuel2009@gmail.com / +40754791732
 - 😄 Pronouns: he/him
 
-Working experience: 
+### Working experience: 
 - Quiz app built in mern stack
 - Cybersecurity app for scanning websites built in mern stack
 
-##Technologies:
+### Technologies:
 - HTML
 - CSS
 - Javascript
