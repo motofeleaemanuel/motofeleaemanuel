@@ -7,8 +7,8 @@
 - 😄 Pronouns: he/him
 
 ### Working experience: 
-- Quiz App 
 - Cyber Security App 
+- Quiz App 
 
 ### Technologies:
 - HTML
