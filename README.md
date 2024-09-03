@@ -37,7 +37,7 @@
 - Jira (Bitbucket, Confluence, Boards)
 - Azure
   
-### Other techs:
+### Visualized:
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="100" />
