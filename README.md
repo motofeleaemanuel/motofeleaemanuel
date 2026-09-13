@@ -1,7 +1,7 @@
 ### Hi there, My name is Motofelea Emanuel and i am a Web Developer!
 ![](https://komarev.com/ghpvc/?username=motofeleaemanuel)
 
-- 🔭 I work as a Software Developer at Namadgi Tech SRL 
+- 🔭 I work as a Frontend Developer at Agile Freaks
 - 🌱 I’m currently learning latest web development concepts
 - 📫 How to reach me: motofeleaemanuel2009@gmail.com / +40754791732
 
