@@ -6,7 +6,10 @@
 - 📫 How to reach me: motofeleaemanuel2009@gmail.com / +40754791732
 
 ### Work Experience:
-27.11.2023 - Present
+25.08.2026 - Present
+- Frontend Developer - Agile Freaks
+
+27.11.2023 - 24.08.2026
 - Software Developer - Namadgi Tech SRL
 
 14.06.2022 - 22.08.2023
